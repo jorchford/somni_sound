@@ -3,6 +3,9 @@
 本分支仅用于存放用户贡献的音频资源（不包含应用代码）。
 
 ## 目录与命名
+ 目录索引文件： 
+ https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/sounds.json
+
 - 将文件放在 `audio/` 下的分类子目录（如 `rain/`、`nature/`、`urban/`）。
 - 文件名使用英文小写与下划线，可附采样率或版本：`rain_loop_44k_v1.wav`。
 - 建议单文件体积 < 20MB；优先提供可无缝循环的短片段。
