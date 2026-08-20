@@ -1,10 +1,13 @@
 # 用户音频贡献指南
 
 本分支仅用于存放用户贡献的音频资源（不包含应用代码）。
+https://github.com/jorchford/somni_sound
 
 ## 目录与命名
  目录索引文件： 
  https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/sounds.json
+
+https://github.com/jorchford/somni_sound/blob/master/sounds.json
 
 - 将文件放在 `audio/` 下的分类子目录（如 `rain/`、`nature/`、`urban/`）。
 - 文件名使用英文小写与下划线，可附采样率或版本：`rain_loop_44k_v1.wav`。
