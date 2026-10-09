@@ -1409,6 +1409,19 @@
       "categoryJa": "都市",
       "icon": "building.2.fill",
       "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/traffic.mp3"
+    },
+    {
+      "id": "brown_noise_sleep",
+      "name": "Brown Noise",
+      "nameZh": "助眠噪音",
+      "nameEn": "Brown Noise",
+      "nameJa": "睡眠ノイズ",
+      "category": "Noise",
+      "categoryZh": "噪音",
+      "categoryEn": "Noise",
+      "categoryJa": "ノイズ",
+      "icon": "waveform",
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown_noise_sleep.mp3"
     }
   ]
 }
