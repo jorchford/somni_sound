@@ -1422,6 +1422,19 @@
       "categoryJa": "ノイズ",
       "icon": "waveform",
       "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown_noise_sleep.mp3"
+    },
+    {
+      "id": "github_merged_free",
+      "name": "GitHub Relaxing Music",
+      "nameZh": "GitHub 助眠音乐",
+      "nameEn": "GitHub Relaxing Music",
+      "nameJa": "GitHub リラックス音楽",
+      "category": "Noise",
+      "categoryZh": "噪音",
+      "categoryEn": "Noise",
+      "categoryJa": "ノイズ",
+      "icon": "waveform",
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/github_merged_free.mp3"
     }
   ]
 }
