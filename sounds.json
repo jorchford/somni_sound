@@ -95,7 +95,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/beehive.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/beehive.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/beehive.jpg"
     },
     {
       "id": "birds",
@@ -108,7 +109,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/birds.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/birds.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/birds.jpg"
     },
     {
       "id": "cat-purring",
@@ -121,7 +123,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cat-purring.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cat-purring.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cat-purring.jpg"
     },
     {
       "id": "chickens",
@@ -134,7 +137,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/chickens.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/chickens.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/chickens.jpg"
     },
     {
       "id": "cows",
@@ -147,7 +151,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cows.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cows.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/cows.jpg"
     },
     {
       "id": "crickets",
@@ -160,7 +165,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crickets.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crickets.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crickets.jpg"
     },
     {
       "id": "crows",
@@ -173,7 +179,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crows.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crows.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/crows.jpg"
     },
     {
       "id": "dog-barking",
@@ -186,7 +193,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/dog-barking.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/dog-barking.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/dog-barking.jpg"
     },
     {
       "id": "frog",
@@ -199,7 +207,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/frog.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/frog.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/frog.jpg"
     },
     {
       "id": "horse-gallop",
@@ -212,7 +221,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/horse-gallop.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/horse-gallop.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/horse-gallop.jpg"
     },
     {
       "id": "owl",
@@ -225,7 +235,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/owl.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/owl.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/owl.jpg"
     },
     {
       "id": "seagulls",
@@ -238,7 +249,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/seagulls.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/seagulls.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/seagulls.jpg"
     },
     {
       "id": "sheep",
@@ -251,7 +263,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/sheep.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/sheep.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/sheep.jpg"
     },
     {
       "id": "whale",
@@ -264,7 +277,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/whale.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/whale.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/whale.jpg"
     },
     {
       "id": "wolf",
@@ -277,7 +291,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/wolf.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/wolf.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/wolf.jpg"
     },
     {
       "id": "woodpecker",
@@ -290,7 +305,8 @@
       "categoryEn": "Animals",
       "categoryJa": "動物",
       "icon": "pawprint.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/woodpecker.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/woodpecker.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/animals/woodpecker.jpg"
     },
     {
       "id": "campfire",
@@ -303,7 +319,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/campfire.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/campfire.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/campfire.jpg"
     },
     {
       "id": "droplets",
@@ -316,7 +333,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/droplets.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/droplets.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/droplets.jpg"
     },
     {
       "id": "field",
@@ -329,7 +347,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/field.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/field.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/field.jpg"
     },
     {
       "id": "howling-wind",
@@ -342,7 +361,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/howling-wind.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/howling-wind.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/howling-wind.jpg"
     },
     {
       "id": "jungle",
@@ -355,7 +375,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/jungle.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/jungle.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/jungle.jpg"
     },
     {
       "id": "lake",
@@ -368,7 +389,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/lake.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/lake.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/lake.jpg"
     },
     {
       "id": "river",
@@ -381,7 +403,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/river.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/river.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/river.jpg"
     },
     {
       "id": "walk-in-snow",
@@ -394,7 +417,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-in-snow.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-in-snow.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-in-snow.jpg"
     },
     {
       "id": "walk-on-gravel",
@@ -407,7 +431,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-gravel.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-gravel.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-gravel.jpg"
     },
     {
       "id": "walk-on-leaves",
@@ -420,7 +445,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-leaves.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-leaves.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/walk-on-leaves.jpg"
     },
     {
       "id": "waterfall",
@@ -433,7 +459,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waterfall.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waterfall.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waterfall.jpg"
     },
     {
       "id": "waves",
@@ -446,7 +473,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waves.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waves.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/waves.jpg"
     },
     {
       "id": "wind-in-trees",
@@ -459,7 +487,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind-in-trees.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind-in-trees.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind-in-trees.jpg"
     },
     {
       "id": "wind",
@@ -472,7 +501,8 @@
       "categoryEn": "Nature",
       "categoryJa": "自然",
       "icon": "leaf.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/nature/wind.jpg"
     },
     {
       "id": "brown-noise",
@@ -485,7 +515,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown-noise.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown-noise.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown-noise.jpg"
     },
     {
       "id": "eating-chips",
@@ -498,7 +529,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/eating-chips.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/eating-chips.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/eating-chips.jpg"
     },
     {
       "id": "piano",
@@ -511,7 +543,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/piano.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/piano.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/piano.jpg"
     },
     {
       "id": "pink-noise",
@@ -524,7 +557,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/pink-noise.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/pink-noise.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/pink-noise.jpg"
     },
     {
       "id": "study",
@@ -537,7 +571,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/study.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/study.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/study.jpg"
     },
     {
       "id": "white-noise",
@@ -550,7 +585,8 @@
       "categoryEn": "Noise",
       "categoryJa": "ノイズ",
       "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/white-noise.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/white-noise.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/white-noise.jpg"
     },
     {
       "id": "airport",
@@ -563,7 +599,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/airport.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/airport.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/airport.jpg"
     },
     {
       "id": "cafe",
@@ -576,7 +613,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/cafe.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/cafe.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/cafe.jpg"
     },
     {
       "id": "carousel",
@@ -589,7 +627,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/carousel.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/carousel.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/carousel.jpg"
     },
     {
       "id": "church",
@@ -602,7 +641,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/church.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/church.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/church.jpg"
     },
     {
       "id": "construction-site",
@@ -615,7 +655,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/construction-site.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/construction-site.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/construction-site.jpg"
     },
     {
       "id": "crowded-bar",
@@ -628,7 +669,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/crowded-bar.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/crowded-bar.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/crowded-bar.jpg"
     },
     {
       "id": "kitchen",
@@ -641,7 +683,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/kitchen.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/kitchen.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/kitchen.jpg"
     },
     {
       "id": "laboratory",
@@ -654,7 +697,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laboratory.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laboratory.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laboratory.jpg"
     },
     {
       "id": "laundry-room",
@@ -667,7 +711,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laundry-room.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laundry-room.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/laundry-room.jpg"
     },
     {
       "id": "library",
@@ -680,7 +725,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/library.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/library.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/library.jpg"
     },
     {
       "id": "night-village",
@@ -693,7 +739,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/night-village.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/night-village.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/night-village.jpg"
     },
     {
       "id": "office",
@@ -706,7 +753,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/office.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/office.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/office.jpg"
     },
     {
       "id": "restaurant",
@@ -719,7 +767,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/restaurant.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/restaurant.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/restaurant.jpg"
     },
     {
       "id": "subway-station",
@@ -732,7 +781,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/subway-station.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/subway-station.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/subway-station.jpg"
     },
     {
       "id": "supermarket",
@@ -745,7 +795,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/supermarket.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/supermarket.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/supermarket.jpg"
     },
     {
       "id": "temple",
@@ -758,7 +809,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/temple.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/temple.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/temple.jpg"
     },
     {
       "id": "underwater",
@@ -771,7 +823,8 @@
       "categoryEn": "Places",
       "categoryJa": "場所",
       "icon": "building.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/underwater.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/underwater.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/places/underwater.jpg"
     },
     {
       "id": "drizzle",
@@ -784,7 +837,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/drizzle.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/drizzle.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/drizzle.jpg"
     },
     {
       "id": "heavy-rain-on-glass",
@@ -797,7 +851,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy-rain-on-glass.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy-rain-on-glass.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy-rain-on-glass.jpg"
     },
     {
       "id": "heavy_rain",
@@ -810,7 +865,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy_rain.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy_rain.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/heavy_rain.jpg"
     },
     {
       "id": "light-rain",
@@ -823,7 +879,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/light-rain.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/light-rain.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/light-rain.jpg"
     },
     {
       "id": "rain-on-car-roof",
@@ -836,7 +893,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-car-roof.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-car-roof.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-car-roof.jpg"
     },
     {
       "id": "rain-on-eaves",
@@ -849,7 +907,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-eaves.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-eaves.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-eaves.jpg"
     },
     {
       "id": "rain-on-empty-street",
@@ -862,7 +921,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-empty-street.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-empty-street.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-empty-street.jpg"
     },
     {
       "id": "rain-on-leaves",
@@ -875,7 +935,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-leaves.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-leaves.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-leaves.jpg"
     },
     {
       "id": "rain-on-raincoat",
@@ -888,7 +949,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-raincoat.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-raincoat.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-raincoat.jpg"
     },
     {
       "id": "rain-on-tent",
@@ -901,7 +963,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-tent.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-tent.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-tent.jpg"
     },
     {
       "id": "rain-on-umbrella",
@@ -914,7 +977,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-umbrella.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-umbrella.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-umbrella.jpg"
     },
     {
       "id": "rain-on-windowsill",
@@ -927,7 +991,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-windowsill.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-windowsill.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-windowsill.jpg"
     },
     {
       "id": "rain-on-wooden-house",
@@ -940,7 +1005,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-wooden-house.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-wooden-house.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-on-wooden-house.jpg"
     },
     {
       "id": "rain-while-driving",
@@ -953,7 +1019,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-while-driving.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-while-driving.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/rain-while-driving.jpg"
     },
     {
       "id": "thunderstorm",
@@ -966,7 +1033,8 @@
       "categoryEn": "Rain",
       "categoryJa": "雨",
       "icon": "cloud.rain.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/thunderstorm.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/thunderstorm.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/rain/thunderstorm.jpg"
     },
     {
       "id": "boiling-water",
@@ -979,7 +1047,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/boiling-water.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/boiling-water.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/boiling-water.jpg"
     },
     {
       "id": "bubbles",
@@ -992,7 +1061,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/bubbles.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/bubbles.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/bubbles.jpg"
     },
     {
       "id": "ceiling-fan",
@@ -1005,7 +1075,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ceiling-fan.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ceiling-fan.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ceiling-fan.jpg"
     },
     {
       "id": "clock",
@@ -1018,7 +1089,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/clock.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/clock.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/clock.jpg"
     },
     {
       "id": "dryer",
@@ -1031,7 +1103,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/dryer.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/dryer.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/dryer.jpg"
     },
     {
       "id": "ear-cleaning-1",
@@ -1044,7 +1117,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-1.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-1.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-1.jpg"
     },
     {
       "id": "ear-cleaning-2",
@@ -1057,7 +1131,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-2.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-2.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/ear-cleaning-2.jpg"
     },
     {
       "id": "guitar",
@@ -1070,7 +1145,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guitar.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guitar.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guitar.jpg"
     },
     {
       "id": "guzheng",
@@ -1083,7 +1159,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guzheng.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guzheng.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/guzheng.jpg"
     },
     {
       "id": "keyboard",
@@ -1096,7 +1173,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/keyboard.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/keyboard.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/keyboard.jpg"
     },
     {
       "id": "light-piano",
@@ -1109,7 +1187,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/light-piano.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/light-piano.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/light-piano.jpg"
     },
     {
       "id": "morse-code",
@@ -1122,7 +1201,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/morse-code.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/morse-code.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/morse-code.jpg"
     },
     {
       "id": "paper",
@@ -1135,7 +1215,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/paper.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/paper.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/paper.jpg"
     },
     {
       "id": "singing-bowl",
@@ -1148,7 +1229,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/singing-bowl.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/singing-bowl.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/singing-bowl.jpg"
     },
     {
       "id": "slide-projector",
@@ -1161,7 +1243,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/slide-projector.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/slide-projector.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/slide-projector.jpg"
     },
     {
       "id": "tuning-radio",
@@ -1174,7 +1257,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/tuning-radio.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/tuning-radio.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/tuning-radio.jpg"
     },
     {
       "id": "typewriter",
@@ -1187,7 +1271,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/typewriter.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/typewriter.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/typewriter.jpg"
     },
     {
       "id": "vinyl-effect",
@@ -1200,7 +1285,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/vinyl-effect.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/vinyl-effect.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/vinyl-effect.jpg"
     },
     {
       "id": "washing-machine",
@@ -1213,7 +1299,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/washing-machine.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/washing-machine.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/washing-machine.jpg"
     },
     {
       "id": "wind-chimes",
@@ -1226,7 +1313,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/wind-chimes.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/wind-chimes.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/wind-chimes.jpg"
     },
     {
       "id": "windshield-wipers",
@@ -1239,7 +1327,8 @@
       "categoryEn": "Things",
       "categoryJa": "物",
       "icon": "cube.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/windshield-wipers.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/windshield-wipers.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/things/windshield-wipers.jpg"
     },
     {
       "id": "airplane",
@@ -1252,7 +1341,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/airplane.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/airplane.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/airplane.jpg"
     },
     {
       "id": "inside-a-train",
@@ -1265,7 +1355,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/inside-a-train.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/inside-a-train.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/inside-a-train.jpg"
     },
     {
       "id": "rowing-boat",
@@ -1278,7 +1369,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/rowing-boat.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/rowing-boat.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/rowing-boat.jpg"
     },
     {
       "id": "sailboat",
@@ -1291,7 +1383,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/sailboat.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/sailboat.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/sailboat.jpg"
     },
     {
       "id": "submarine",
@@ -1304,7 +1397,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/submarine.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/submarine.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/submarine.jpg"
     },
     {
       "id": "train",
@@ -1317,7 +1411,8 @@
       "categoryEn": "Transport",
       "categoryJa": "乗り物",
       "icon": "car.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/train.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/train.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/transport/train.jpg"
     },
     {
       "id": "ambulance-siren",
@@ -1330,7 +1425,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/ambulance-siren.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/ambulance-siren.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/ambulance-siren.jpg"
     },
     {
       "id": "busy-street",
@@ -1343,7 +1439,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/busy-street.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/busy-street.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/busy-street.jpg"
     },
     {
       "id": "crowd",
@@ -1356,7 +1453,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/crowd.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/crowd.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/crowd.jpg"
     },
     {
       "id": "fireworks",
@@ -1369,7 +1467,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/fireworks.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/fireworks.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/fireworks.jpg"
     },
     {
       "id": "highway",
@@ -1382,7 +1481,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/highway.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/highway.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/highway.jpg"
     },
     {
       "id": "road",
@@ -1395,7 +1495,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/road.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/road.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/road.jpg"
     },
     {
       "id": "traffic",
@@ -1408,33 +1509,8 @@
       "categoryEn": "Urban",
       "categoryJa": "都市",
       "icon": "building.2.fill",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/traffic.mp3"
-    },
-    {
-      "id": "brown_noise_sleep",
-      "name": "Brown Noise",
-      "nameZh": "助眠噪音",
-      "nameEn": "Brown Noise",
-      "nameJa": "睡眠ノイズ",
-      "category": "Noise",
-      "categoryZh": "噪音",
-      "categoryEn": "Noise",
-      "categoryJa": "ノイズ",
-      "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/brown_noise_sleep.mp3"
-    },
-    {
-      "id": "github_merged_free",
-      "name": "GitHub Relaxing Music",
-      "nameZh": "GitHub 助眠音乐",
-      "nameEn": "GitHub Relaxing Music",
-      "nameJa": "GitHub リラックス音楽",
-      "category": "Noise",
-      "categoryZh": "噪音",
-      "categoryEn": "Noise",
-      "categoryJa": "ノイズ",
-      "icon": "waveform",
-      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/noise/github_merged_free.mp3"
+      "url": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/traffic.mp3",
+      "image": "https://cdn.jsdelivr.net/gh/jorchford/somni_sound@master/urban/traffic.jpg"
     },
     {
       "id": "rain_light",
